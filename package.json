@@ -1,0 +1,11 @@
+{
+  "name": "faceoff-starter",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "services/*"
+  ],
+  "scripts": {
+    "dev": "echo \"Use individual package dev scripts\"",
